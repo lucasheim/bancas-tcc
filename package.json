@@ -1,0 +1,14 @@
+{
+  "name": "bancas_tcc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/luxon": "^3.0.0",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^18.7.14",
+    "luxon": "^3.0.3",
+    "mocha": "^10.0.0",
+    "typescript": "^4.8.2"
+  }
+}
